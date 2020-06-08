@@ -1,7 +1,7 @@
 
 ## Expense Tracker
 
-Built React Hooks & Context API.
+React Hooks & Context API.
 
 Add new transcations
 
